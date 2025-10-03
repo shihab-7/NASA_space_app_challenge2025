@@ -10,7 +10,7 @@
 
 ## Team Members
 - MD. Rasel Islam ( Team Leader & Researcher )  
-- Shihab Shariar ( Back-end & ML models Developer ) 
+- MD. Shihab Shariar ( Back-end & ML models Developer ) 
 - Md. Ikhtear  (Back-end Developer) 
 - Fardhin Kamal ( Front-end Developer) 
 - Maheer Alam ( UI/XI & video editor)  
