@@ -85,7 +85,7 @@ Our solution consists of:
 
 4. We took 2017 to 2024 annual average data because of limited time and monthly or daily data was not available for some parameters . As well as we do not have high configuration machines to process those heavy sized data.
 
-5. We are totally beginner in the field of machine learning and web development that is why we took several help from the modern AI like ChatGPT, Gemini. 
+5. We are not the experts in the field of machine learning and web development that is why we took several help from the modern AI like ChatGPT, Gemini. 
 
 ## Contact
 For questions or demo requests, contact shihabshahriar543@gmail.com
